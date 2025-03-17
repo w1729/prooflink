@@ -1,0 +1,15 @@
+.method{
+
+}
+.method.post{
+    color: #22c55e;
+}
+.method.get{
+    color: #3b82f6;
+}
+.method.put{
+    color: #f59e0b;
+}
+.method.delete{
+    color: #ef4444;
+}

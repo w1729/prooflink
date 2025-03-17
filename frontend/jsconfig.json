@@ -1,0 +1,17 @@
+{
+  // "files": [],
+  // "references": [],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@": [
+        "./src"
+      ],
+      "@/*": [
+        "./src/*"
+      ]
+    },
+    "moduleResolution": "Bundler",
+    "module": "es2015",
+  }
+}

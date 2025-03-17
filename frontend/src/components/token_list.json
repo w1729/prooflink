@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "icon": "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
+        "min": "0.01"
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "icon": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579",
+        "min": "0.00001"
+    },
+    {
+        "name": "Rupiah",
+        "symbol": "IDR",
+        "icon": "/assets/rupiah.svg",
+        "min": "10000"
+    }
+]
